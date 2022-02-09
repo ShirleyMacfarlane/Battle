@@ -9,3 +9,4 @@ gem "sinatra"
 gem 'capybara'
 gem 'webrick'
 gem 'sinatra-contrib'
+gem 'launchy'
